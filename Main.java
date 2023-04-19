@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    int high = 5;
+    int high = 5 ;
     for(int i = 0; i<high; i++) {
       for(int k = 0; k<= i; k++) {
         System.out.print("*");
